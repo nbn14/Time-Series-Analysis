@@ -3,13 +3,13 @@ Introduction to fundamental time series analysis concepts and modeling using SAR
 -----------------------------------------------------------------------------------
 
 In this notebook, we will go through basic concepts in time series analysis, introduce SARIMA modeling, and systematic parameter tuning methodology. The structure of the notebook follows:
-- 1. Import libraries
-- 2. Import data
-- 3. Exploratory Data Analysis
-- 4. Time series data pre-processing:
+1. Import libraries
+2. Import data
+3. Exploratory Data Analysis
+4. Time series data pre-processing:
     - Smoothing of time series
     - Decomposition of time series
-- 5. Time series analysis: identification of underlying processes
+5. Time series analysis: identification of underlying processes
     - Autocorrelation
     - Partial autocorrelation
     - Recognising time series processes using ACF and PACF:
@@ -19,7 +19,7 @@ In this notebook, we will go through basic concepts in time series analysis, int
     - Stationarity
         - Definition & visualisation
         - Statistical testing
-- 6. Introduction to modeling using SARIMA
+6. Introduction to modeling using SARIMA
     - Basic concepts and parameters
     - Model selection and parameter tuning:
         - Initial estimates of parameters using ACF and PACF
